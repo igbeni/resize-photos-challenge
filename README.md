@@ -6,6 +6,8 @@ The chosen language was Python because it is a simple and practical language, al
 
 Unit tests were implemented using the unittest library.
 
+MongoDB should be installed for the program to run properly. You can download it [here](https://www.mongodb.com/).
+
 ### How to run the code?
 
 Before running the code, you need to install some libraries with the commands below.
